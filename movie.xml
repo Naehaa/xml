@@ -1,0 +1,28 @@
+<movie>
+    <stats1>
+<name>sikander</name>
+<hero>Salman khan</hero>
+<profit>260cr</profit>
+<status>flop</status>
+    <industry>bollywood</industry>
+    <actress>pooja</actress>
+</stats1>
+
+<stats2>
+    <name>Titanic</name>
+    <hero>Leonardio caprio</hero>
+    <profit>$ 2.2 billion</profit>
+    <status>super hit</status>
+        <industry>hollywood</industry>
+        <actress>kate winslet</actress>
+</stats2>
+
+<stats3>
+    <name>terminator 1</name>
+    <hero>arnold</hero>
+    <profit>$ 1.6 billion</profit>
+    <status> hit</status>
+        <industry>hollywood</industry>
+        <actress>linda hemilton</actress>
+</stats3>
+</movie>
