@@ -1,0 +1,47 @@
+<info>
+    <A1>
+    <id>0</id>
+    <name>Bushra</name>
+    <city>Karachi</city>
+    <state>new jersey</state>
+    <country>pakistan</country>
+    <company>ovolo</company>
+    <favotitenumber>7</favotitenumber>
+</A1>
+<a2>
+    <id>1</id>
+    <name>urooba</name>
+    <city>lahore</city>
+    <state>madagascar</state>
+    <country>hawaii</country>
+    <company>eventage</company>
+    <favotitenumber>4</favotitenumber>
+</a2>
+<a3>
+    <id>2</id>
+    <name>kashmala</name>
+    <city>sukker</city>
+    <state>ukrain</state>
+    <country>arizona</country>
+    <company>comtext5</company>
+    <favotitenumber>2</favotitenumber>
+</a3>
+<a4>
+    <id>3</id>
+    <name>tooba</name>
+    <city>hyderabad</city>
+    <state>wyoming</state>
+    <country>india</country>
+    <company>corporana</company>
+    <favotitenumber>6</favotitenumber>
+</a4>
+<a5>
+    <id>4</id>
+    <name>aiman</name>
+    <city>islamabad</city>
+    <state>ilinois</state>
+    <country>iran</country>
+    <company>isologica</company>
+    <favotitenumber>14</favotitenumber>
+</a5>
+</info>
